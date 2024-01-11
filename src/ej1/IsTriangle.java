@@ -16,4 +16,8 @@ public class IsTriangle {
 		
 	}
 	
+	private static int return5() {
+		return 5;
+	}
+	
 }
